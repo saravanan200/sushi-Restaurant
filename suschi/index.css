@@ -1,0 +1,500 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Dancing+Script&family=Lato:ital,wght@1,900&family=Nosifer&family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Dancing+Script&family=Lato:ital,wght@1,900&family=Nosifer&family=Pacifico&family=Playpen+Sans:wght@100&display=swap');
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 17px;
+    background-color: #e7272d !important;
+}
+.header-sec{
+    color: white !important;
+}
+.contant{
+    justify-content: center;
+}
+.sushi-img{
+    width: 80%;
+}
+.boxwidth{
+    width: 95%;
+}
+.suschi-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.saro{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fbbe36;
+    padding: 15px;
+    border-radius: 10px;
+}
+.mathi {
+    padding: 20px 40px;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.banner-sec{
+    padding-top: 100px;
+    padding-bottom:  175px;
+    background-color:#e7272d !important;
+}
+.byenow button {
+    background-color: white;
+    border-radius: 20px;
+    width: 120px;
+    color: #e7272d;
+    border-color:#e7272d;
+    transition: all .3s ease-in-out;
+}
+.byenow button:hover{
+    color: #fbbe36;
+}
+.header-sec ul li {
+    padding: 0px 15px;
+}
+.header-sec ul li a{
+    color:#FFFFFF !important;
+}
+.contant h1{
+    color: #FFFFFF;
+    font-size: 62px;
+}
+.contant p{
+    color: #FFFFFF;
+}
+.mathi h4 {
+    font-size: 37px;
+}
+.pizza{
+    width: 50px;
+}
+.order {
+    border-color: #e7272d ;
+    background-color:#e7272d  ;
+    width: 9rem;
+    padding: 2px 3px;
+    border-radius: 20px;
+    transition: all .3s ease-in-out;
+    color: #FFFFFF !important;
+}
+.order:hover{
+    background-color: #fbbe36;
+    color: #FFFFFF;
+}
+.want{
+   text-align: end;
+   float: right;
+   padding: 10px;
+}
+.Choose{
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+.del{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color: #e7272d;
+}
+.Lorem {
+    margin-bottom: 15px;
+}
+.bala{
+    display: flex;
+    margin-top: 75px;
+}
+.delivery{
+    float: left;
+    text-align: start;
+    padding: 10px;
+}
+.rew{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color: #e7272d;
+}
+.earn{
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+.Lorem-ipsaum{
+    margin-bottom: 15px;
+}
+.learn{
+    border-color: #e7272d ;
+    background-color:#e7272d  ;
+    width: 9rem;
+    padding: 2px 3px;
+    border-radius: 20px;
+    transition: all .3s ease-in-out;
+    color: #FFFFFF !important;
+}
+.learn:hover{
+    background-color: #fbbe36;
+    color: white;
+}
+.navbar-brand{
+    color: #FFFFFF !important;
+    font-family: 'Dancing Script', cursive;
+}
+.combo{
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.combo p{
+    font-family: 'Dancing Script', cursive;
+    color: #e7272d;
+}
+.planed img{
+    width: 7rem;
+}
+.cardes{
+    display: flex; 
+    padding-bottom: 20px;
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    text-align: center;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding: 10px;
+}
+.all-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.all-box{
+    padding: 7px;
+    padding-bottom: 80px;
+    transition: all .3s ease-in-out;
+}
+.cardes{
+    transition: all .3s ease-in-out;
+}
+.card{
+    transition: all .3s ease-in-out;
+}
+.card:hover{
+    transform: translateY(-2rem);
+    background-color: #e7272d;
+    margin-bottom: 2rem;
+    color: #FFFFFF !important;
+}
+.cardes:hover{
+    transform: translateY(-2rem);
+    background-color: #e7272d;
+    margin-bottom: 2rem;
+    color: #FFFFFF !important;  
+}
+.cardes-body h5{
+    color: #e7272d; 
+}
+.cardes-body h5:hover{
+    color: #FFFFFF;
+}
+.thai .btn{
+    color: #e7272d !important;
+}
+.thai .btn:hover{
+    color: #FFFFFF !important;
+    background-color: #fbbe36;
+}
+.your{
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+}
+.deals{
+    color: #e7272d;
+    font-family: 'Dancing Script', cursive;
+}
+.boxs{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.boxs1{
+    border-color: #e7272d;
+    background-color: #e7272d;
+    height: 15rem;
+    margin-bottom: 10rem;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+.box2{
+    border-color: #232323;
+    background-color: #232323;
+    height: 15rem;
+    margin-bottom: 10rem;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+.box3{
+    border-color: #fe7a15;
+    background-color: #fe7a15;
+    height: 15rem;
+    margin-bottom: 10rem;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+.Thai-food{
+    display: flex;
+}
+.Thai-food h3{
+    font-family: 'Dancing Script', cursive;
+    /* padding-top: 10px; */
+    margin-top: 50px;
+    font-size: 35px;
+    margin-left: 13px;
+}
+.setimage{
+    width: 35%;
+    margin-top: 60px;
+    /* margin-left: 25px; */
+    margin-left: 110px;
+}
+.Thai-food p{
+    margin-top: 108px;
+    margin-left: -111px;
+}
+.Mozzarella{
+    display: flex;
+}
+.Mozzarella h3{
+    font-family: 'Dancing Script', cursive;
+    /* padding-top: 10px; */
+    margin-top: 50px;
+    font-size: 35px;
+    margin-left: 13px;
+}
+.Mozzarella p{
+    margin-top: 108px;
+    margin-left: -93px;
+}
+.BeefSteak{
+    display: flex;
+}
+.BeefSteak h3{
+    font-family: 'Dancing Script', cursive;
+    /* padding-top: 10px; */
+    margin-top: 50px;
+    font-size: 35px;
+    margin-left: 13px;
+}
+.BeefSteak p{
+    margin-top: 108px;
+    margin-left: -85px;
+}
+.Menu{
+    /* display: flex; */
+    justify-content: center;
+    text-align: center;
+}
+.Menu p{
+    font-family: 'Dancing Script', cursive;
+    color: #e7272d;
+    font-size: 2rem;
+}
+.Menu h3{
+    font-size: 2rem; 
+}
+.dish1 h5{
+    width: fit-content;
+    background-color: #e7272d;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 16px 5px 16px;
+}
+.fixed-top {
+    position: unset !important;
+}
+.rs18{
+    color: #e7272d;
+}
+.dish2 h5{
+    width: fit-content;
+    background-color: #e7272d;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 16px 5px 16px;
+}
+.rs18{
+    color: #e7272d;
+}
+.dish{
+    /* display: flex; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* font-size: 1rem; */
+    /* font-weight: bold; */
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.rs28{
+    color: #e7272d;
+}
+.dish3 h5{
+    width: fit-content;
+    background-color: #e7272d;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 16px 5px 16px;
+}
+.dish4 h5{
+    width: fit-content;
+    background-color: #e7272d;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 16px 5px 16px;
+}
+.cv{
+    display: flex; 
+}
+.gallery{
+    justify-content: center;
+    text-align: center;
+}
+.gallery p{
+    color: #89b758 !important;
+}
+.menu-gallery img {
+    width: 22rem;
+    height: 17rem;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.team{
+    color: #e7272d;
+    text-align: center;
+    align-items: center;
+}
+.car{
+    width: 10rem;
+    text-align: center;
+}
+.all-team-card{
+    display: flex; 
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.fqa{
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.fqa h5{
+    color: #89b758;
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+}
+.fqa h3{
+    font-size: 3rem;
+}
+.acc{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.acc button:hover{
+    color: #89b758;
+    cursor: pointer;
+}
+.acc button{
+    font-size: 1.5rem;
+}
+.men{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.mens-pic img{   
+    width: 17rem;
+}
+input#email-form02-1r {
+    padding: 0.5rem;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #808080;
+    transition: 0.4s;
+    min-height: 4rem;
+    box-shadow: none;
+    outline: none;
+}
+.sub button{
+    border-color: #e7272d;
+    background-color: #e7272d;
+    width: 10rem;
+    border-radius: 20px;
+    height: 3rem;
+    color: white;
+    transition: all .3s ease-in-out;
+}
+.sub button:hover{
+    background-color: #fbbe36;
+    border-color: #fbbe36;
+    color: #FFFFFF;
+}
+.reward{
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.reward h5{
+    font-size: 1.6rem;
+    color: #89b758;
+    font-family: 'Dancing Script', cursive;
+}
+.reward h3{
+    font-size: 3rem;
+}
+.mail{
+    display: flex;
+}
+.pass{
+    justify-content: center;
+}
+.msg button{
+    background-color: #e7272d;
+    color: #FFFFFF;
+    width: 20%;
+    border-radius: 18px;
+    transition: all .3s ease-in-out;
+    margin-top: 15px;
+}
+.msg button:hover{
+    background-color: #fbbe36;
+    color: #FFFFFF;
+}
+.entry{
+    column-gap: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.carousel-item img{
+    width: 50% ;
+    justify-content: center;
+    align-items: center;
+}
+.Write{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: center !important;
+    align-items: center !important;
+}
+

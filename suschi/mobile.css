@@ -1,0 +1,8 @@
+
+@media (max-width: 660px){
+    card car{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+}
